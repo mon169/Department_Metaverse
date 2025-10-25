@@ -62,14 +62,10 @@ plaintext
 Frontend (React.js) [WebSocket (Socket.IO)] -> Backend (Node.js + Express) -> Database (본인은 Firebase 기반 사용)
 
 <video width='800' controls>
-  <source src='public/img/1F.png' type='img/png'>
+  <source src='public/img/학과메타버스.mp4' type='vedio/mp4'>
   Your browser does not support the video tag.
 </video>
 
-<img width='800' controls>
-  <source src='public/img/' type='video/mp4'>
-  Your browser does not support the video tag.
-</img>
 
 
 
