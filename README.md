@@ -58,7 +58,7 @@
 
 ## 시스템 아키텍처 (Architecture)
 
-```plaintext
+plaintext
 Frontend (React.js)
       ↓  WebSocket (Socket.IO)
 Backend (Node.js + Express)
